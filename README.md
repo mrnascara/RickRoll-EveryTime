@@ -16,3 +16,7 @@ xcode-select --install
 Use Any modern c++ Compiler to Compile Basic.cpp into an exe or a Linux app.
 
 NOTE: on Windows,You MUST USE MSYS2 Because It Will save You A Bunch Of Time.
+
+
+### Why?
+In case of Youtube Servers Crashing
