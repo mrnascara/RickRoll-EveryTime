@@ -1,6 +1,6 @@
 ### Rickroll
 
-A program for MacOS and the TI 84 Plus CE that literally rickrolls you (I am Serious)
+A program for MacOS,Windows and the TI 84 Plus CE that literally rickrolls you (I am Serious)
 
 ### Compiling for the TI 84 Plus CE
 Install the CE toolchain, then Install the zip of this repo and run make.
@@ -11,7 +11,9 @@ Install the CE toolchain, then Install the zip of this repo and run make.
 xcode-select --install
 2. Download this repo
 3. Then run clang++ basic.cpp -o RickRoll
-
+### Compiling for Windows
+1. get gcc via msys2
+2. Run build.bat
 ### Windows and Linux
 For Windows users,You Can Get it From Releases.
 
