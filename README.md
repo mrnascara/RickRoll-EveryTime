@@ -13,9 +13,7 @@ xcode-select --install
 3. Then run clang++ basic.cpp -o RickRoll
 
 ### Windows and Linux
-Use Any modern c++ Compiler to Compile Basic.cpp into an exe or a Linux app.
-
-NOTE: on Windows,You MUST USE MSYS2 Because It Will save You A Bunch Of Time.
+For Windows users,You Can Get it From Releases.
 
 
 ### Why?
